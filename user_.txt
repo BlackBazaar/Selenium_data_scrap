@@ -1,0 +1,2 @@
+email.send_keys("*******@hotmail.com") #You need to put your email here
+password.send_keys("********") #You need to put your password here
